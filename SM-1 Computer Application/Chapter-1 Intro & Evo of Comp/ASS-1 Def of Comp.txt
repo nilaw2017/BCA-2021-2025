@@ -1,5 +1,0 @@
-Assignment 1: Definition of Computer.
-
-=>	Computer is an electronic device that takes input(instruction) from user processes the input data and returns the processed data as output.
-
-=>	Computer is an electronic device that performs the task of taking input, process, and returning output to the user, by the combination of hardware and softwares working simultaenously.
