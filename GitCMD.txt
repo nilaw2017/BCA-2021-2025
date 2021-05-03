@@ -1,0 +1,20 @@
+
+PULL / DOWNLOAD PART
+
+step- 1:    open terminal GitBash (where terminal = commandPrompt/powershell/GitBash)
+step- 2:    use cd (driveName):
+step- 3:    go to folder where you want the Git files to be stored/backup ( USING cd )
+step- 4:    in terminal type ==>    git init
+step- 5:    open the github and the organization // BCA-2021-2025
+step- 6:    click on Code with GREEN COLOUR, and copy the HTTP address (  https://github.com/nilaw2017/BCA-2021-2025.git  )
+step- 7:    in terminal type ==>    git clone https://github.com/nilaw2017/BCA-2021-2025.git
+step- 8:    go into the BCA-2021-2025 directory using terminal OR cd ./BCA-2021-2025
+step- 9:    in terminal type ==>    git pull 
+
+
+FINALLY YOUR FOLDER WILL UPDATE ALL THE CHANGES MADE OR IN YOUR CASE DOWNLOAD THE FILES INITIALLY
+
+//  NOTE: Step- 1 TO Step- 7 is to be done only once
+//  NOTE: Step- 8 TO Step- 9 is to be repeated everytime you want to UPDATE the file
+
+
