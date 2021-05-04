@@ -1,0 +1,21 @@
+Web Development ?
+    To make it easier let's divide the web development into different divisions
+    1. HTML :   Think HTML as the SKELETON of OUR BODY and similarly with the Web Development too, where we give the STRUCTURE of the website we are building
+
+    2. CSS  :   Think CSS as the SKIN of OUR BODY and similarlywith the Web Development as well, as it is CSS that gives us flexibility to design our website, and the ability of attract the visitors / customers depends on the hand of CSS as well.
+
+    3. JS   :   Think JS as the JOINTS and ORGANS of our body. You might have seen I included 2 words JOINTS and ORGANS it is because there is two functions of JS i.e. Client_Side & Server_Side. But one thing is common in both i.e. Both performs specific task.
+
+        A)  JOINTS / Client_Side :- We can see and feel that our joints are moving due to which we can do various tasks, similarly in web development JS performs the task that we can view like giving PARALLAX effects, TAPPING on buttons, SLIDER Effects and many more.
+
+        B)  ORGANS / Server_Side :- This part we cannot see nor can we feel just like our ORGANS in our body, which are there and performing vital functions and yet we are unaware of it, similarly in Web Development JS performs very important tasks which deals with Server and Behind the scene of many websites.  
+
+
+What is HTML ?
+=>    FULL FORM = Hyper Text Markup Language
+=>    HTML is standard markup language for creating Web pages
+=>    HTML describes the STRUCTURE of a Web page
+=>    HTML consists of a series of elements
+=>    HTML elements tell the browser how to display the content
+
+
