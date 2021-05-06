@@ -9,3 +9,14 @@ C.  <body />    =   Used to indicate the overall body of the BROWESER Web Page
 
 D.  <title />   =   Used to give name on the TAB LIST of BROWSER
 
+E.  <p />       =   The nested texts works as text in paragraph
+
+F.  <br>        =   This tag is used to break one line/ENTER
+
+G.  <hr>        =   Used to make a straight horizontal line
+
+H.  <strong />  =   Used to make the nested TEXT BOLD
+
+I.  <center />  =   Used to place nested text in center alligned way
+
+J.  <hN />      =   Used to indicate imporatant text which is largest among N = 1 to 6
