@@ -1,0 +1,4 @@
+// NOTE: <HTML> = tags, if given <HTML> then HTML is the element, if <HTML /> it should have a opening tag like <HTML> and closing tag like </HTML>
+
+
+A.  <html />    =   
