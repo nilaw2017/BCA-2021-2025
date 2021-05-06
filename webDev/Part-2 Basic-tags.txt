@@ -1,4 +1,11 @@
 // NOTE: <HTML> = tags, if given <HTML> then HTML is the element, if <HTML /> it should have a opening tag like <HTML> and closing tag like </HTML>
 
 
-A.  <html />    =   
+A.  <html />    =   Used to indicate that the nested texts are Hyper Text Markup Language
+
+B.  <head />    =   Used to indicate that the nested texts belong to the header of the HTML
+
+C.  <body />    =   Used to indicate the overall body of the BROWESER Web Page
+
+D.  <title />   =   Used to give name on the TAB LIST of BROWSER
+
