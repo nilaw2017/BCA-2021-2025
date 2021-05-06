@@ -27,21 +27,29 @@ J.  <hN />      =   Used to indicate imporatant text which is largest among N = 
 <html>
 
     <head>
+    
         <title> Basic Tags </title>
+        
     </head>
 
     <body>
+    
         <center>
+        
             <h1> This is Heading 1 </h1>
             <h2> This is Heading 2 </h2>
             <h3> This is Heading 3 </h3>
             <h4> This is Heading 4 </h4>
             <h5> This is Heading 5 </h5>
             <h6> This is Heading 6 </h6>
+            
             <p> This is First Paragraph </p>
             <p> This is Second Paragraph </p>
+            
             <br>
+            
             <strong> THIS IS THE END OF TODAY's PART WITH STRONG TAG </strong>
+            
         </center>
 
     </body>
