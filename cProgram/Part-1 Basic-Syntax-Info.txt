@@ -1,0 +1,24 @@
+/* 
+C programming Language is the POP(Procedure Oriented Programming) based programming language. As it is very old language, we have got really bad interface though some compiler do offer better UI but in the cost of performance and experience.
+*/
+
+We have, various LIBRARIES that will be used throughout the program. Some of the basics are:
+STDIO = Standard Input Output, this library is used to import the requirements to take input process it and return as output.
+
+CONIO = Console Input Output, this library is used to import the required for the compiler to display us the output in human understandable form.
+
+/////////////// EXAMPLE SYNTAX /////////////////
+
+#include <stdio.h>
+#include <conio.h>
+
+void main()
+{
+    clrscr();
+    printf("Hello Friends);
+
+    getch();
+}
+
+/////////////// EXAMPLE SYNTAX /////////////////
+
