@@ -1,0 +1,15 @@
+
+////////////// OPERATOR /////////////////////
+
+	The symbol that tells the compiler to perform specific task such as mathematical or logical task, is called OPERATOR.
+	
+////////////// ARITHMETIC OPERATORS ///////////////////////
+
+Addition		=>	+
+Substraction		=>	-
+Multiplication		=>	*
+Division		=>	/
+Adding by 1		=>	++
+Substracting by 1	=>	--
+Modulus or Remainder	=>	%
+=>	+=
