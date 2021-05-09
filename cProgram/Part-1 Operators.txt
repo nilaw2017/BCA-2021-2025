@@ -1,9 +1,11 @@
 
-////////////// OPERATOR /////////////////////
+************ OPERATOR ************
 
 	The symbol that tells the compiler to perform specific task such as mathematical or logical task, is called OPERATOR.
+
+************ OPERATOR ************
 	
-////////////// ARITHMETIC OPERATORS ///////////////////////
+************* ARITHMETIC OPERATORS ************
 
 Addition		=>	+
 Substraction		=>	-
@@ -12,4 +14,32 @@ Division		=>	/
 Adding by 1		=>	++
 Substracting by 1	=>	--
 Modulus or Remainder	=>	%
-=>	+=
+
+************ ARITHMETIC OPERATORS ************
+
+************ EXAMPLE ************
+
+// IF a = 2, b = 4, c = 5, and x = undefined 
+
+printf("a + b = %d", a+b);
+//	OUTPUT = 6
+
+printf("a - b = %d", a-b);
+//	OUTPUT = -2
+
+printf("a * b = %d", a*b);
+//	OUTPUT = 8
+
+printf("b / a = %d", b/a);
+//	OUTPUT = 2
+
+printf("a + 1 = %d", a++);
+//	OUTPUT = 3
+
+printf("a - 1 = %d", a--);
+//	OUTPUT = 1
+
+printf("c % a = %d", c%a);
+//	OUTPUT = 1 (where, c/a = 2 with remainder 1, so as output we get remainder 1)
+
+************ EXAMPLE ************
