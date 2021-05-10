@@ -20,5 +20,5 @@ void main()
     getch();
 }
 
-/////////////// EXAMPLE SYNTAX /////////////////
+/////////////// EXAMPLE SYNTAX ////////////////
 
