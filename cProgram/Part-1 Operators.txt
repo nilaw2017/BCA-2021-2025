@@ -1,7 +1,7 @@
 
 ************ Start of OPERATOR ************
 
-	The symbol that tells the compiler to perform specific task such as mathematical or logical task, is called OPERATOR.
+The symbol that tells the compiler to perform specific task such as mathematical or logical task, is called OPERATOR.
 
 ************ End of OPERATOR ************
 	
