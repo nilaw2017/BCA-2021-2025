@@ -1,23 +1,21 @@
 
-************ OPERATOR ************
+************ Start of OPERATOR ************
 
 	The symbol that tells the compiler to perform specific task such as mathematical or logical task, is called OPERATOR.
 
-************ OPERATOR ************
+************ End of OPERATOR ************
 	
-************* ARITHMETIC OPERATORS ************
+************* Start of ARITHMETIC OPERATORS ************
 
-Addition		=>	+
-Substraction		=>	-
-Multiplication		=>	*
-Division		=>	/
-Adding by 1		=>	++
-Substracting by 1	=>	--
-Modulus or Remainder	=>	%
+Addition			=>	+
+Substraction			=>	-
+Multiplication			=>	*
+Division			=>	/
+Adding by 1			=>	++
+Substracting by 1		=>	--
+Modulus or Remainder		=>	%
 
-************ ARITHMETIC OPERATORS ************
-
-************ EXAMPLE ************
+************ Start of EXAMPLE ************
 
 // IF a = 2, b = 4, c = 5, and x = undefined 
 
@@ -42,4 +40,19 @@ printf("a - 1 = %d", a--);
 printf("c % a = %d", c%a);
 //	OUTPUT = 1 (where, c/a = 2 with remainder 1, so as output we get remainder 1)
 
-************ EXAMPLE ************
+************ End of EXAMPLE ************
+
+************ End of ARITHMETIC OPERATORS ************
+
+
+************ Start of RELATIONAL OPERATION ************
+
+Used to relate between two operands
+
+>
+<
+>=
+<=
+
+************ End of RELATIONAL OPERATION ************
+
