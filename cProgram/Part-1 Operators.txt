@@ -1,19 +1,21 @@
 
 ************ Start of OPERATOR ************
 
-	The symbol that tells the compiler to perform specific task such as mathematical or logical task, is called OPERATOR.
+The symbol that tells the compiler to perform specific task such as mathematical or logical task, is called OPERATOR.
 
 ************ End of OPERATOR ************
 	
 ************* Start of ARITHMETIC OPERATORS ************
 
 Addition			=>	+
-Substraction		=>	-
-Multiplication		=>	*
+Substraction			=>	-
+Multiplication			=>	*
 Division			=>	/
 Adding by 1			=>	++
-Substracting by 1	=>	--
-Modulus or Remainder=>	%
+Substracting by 1		=>	--
+Modulus or Remainder		=>	%
+
+
 
 ************ Start of EXAMPLE ************
 
