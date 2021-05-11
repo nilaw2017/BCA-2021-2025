@@ -15,8 +15,6 @@ Adding by 1			=>	++
 Substracting by 1		=>	--
 Modulus or Remainder		=>	%
 
-
-
 ************ Start of EXAMPLE ************
 
 // IF a = 2, b = 4, c = 5, and x = undefined 
@@ -51,10 +49,10 @@ printf("c % a = %d", c%a);
 
 Used to relate between two operands
 
->
-<
->=
-<=
+Greater or Lesser than		==>	>
+Greater or Lesser than		==>	<
+Greater or Lesser than equal to	==>	>=
+Greater or Lesser than equal to	==>	<=
 
 ************ End of RELATIONAL OPERATION ************
 
