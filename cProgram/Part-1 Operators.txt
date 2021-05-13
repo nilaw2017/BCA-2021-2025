@@ -7,13 +7,13 @@ The symbol that tells the compiler to perform specific task such as mathematical
 	
 ************* Start of ARITHMETIC OPERATORS ************
 
-Addition			=>	+
-Substraction			=>	-
-Multiplication			=>	*
-Division			=>	/
-Adding by 1			=>	++
-Substracting by 1		=>	--
-Modulus or Remainder		=>	%
+Addition			        =>  	+
+Substraction			    =>  	-
+Multiplication			    =>	    *
+Division			        =>	    /
+Adding by 1			        =>	    ++
+Substracting by 1		    =>	    --
+Modulus or Remainder	    =>	    %
 
 ************ Start of EXAMPLE ************
 
