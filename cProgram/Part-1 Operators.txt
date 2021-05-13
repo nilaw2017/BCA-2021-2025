@@ -54,5 +54,5 @@ Greater or Lesser than	    	    ==>	    <
 Greater or Lesser than equal to	    ==>	    >=
 Greater or Lesser than equal to	    ==> 	<=
 
-************ End of RELATIONAL OPERATION ************
+************ End of RELATIONAL OPERATION *************
 
