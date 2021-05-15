@@ -15,37 +15,39 @@ Adding by 1			        =>	    ++
 Substracting by 1		    =>	    --
 Modulus or Remainder	    =>	    %
 
-************ Start of EXAMPLE ************
+    ************ Start of EXAMPLE ************
 
-// IF a = 2, b = 4, c = 5, and x = undefined 
+    // IF a = 2, b = 4, c = 5, and x = undefined 
 
-printf("a + b = %d", a+b);
-//	OUTPUT = 6
+    printf("a + b = %d", a+b);
+    //	OUTPUT = 6
 
-printf("a - b = %d", a-b);
-//	OUTPUT = -2
+    printf("a - b = %d", a-b);
+    //	OUTPUT = -2
 
-printf("a * b = %d", a*b);
-//	OUTPUT = 8
+    printf("a * b = %d", a*b);
+    //	OUTPUT = 8
 
-printf("b / a = %d", b/a);
-//	OUTPUT = 2
+    printf("b / a = %d", b/a);
+    //	OUTPUT = 2
 
-printf("a + 1 = %d", a++);
-//	OUTPUT = 3
+    printf("a + 1 = %d", a++);
+    //	OUTPUT = 3
 
-printf("a - 1 = %d", a--);
-//	OUTPUT = 1
+    printf("a - 1 = %d", a--);
+    //	OUTPUT = 1
 
-printf("c % a = %d", c%a);
-//	OUTPUT = 1 (where, c/a = 2 with remainder 1, so as output we get remainder 1)
+    printf("c % a = %d", c%a);
+    //	OUTPUT = 1 (where, c/a = 2 with remainder 1, so as output we get remainder 1)
 
-************ End of EXAMPLE ************
+    ************ End of EXAMPLE ************
 
 ************ End of ARITHMETIC OPERATORS ************
 
 
-************ Start of RELATIONAL OPERATION ************
+
+
+************ Start of RELATIONAL OPERATOR ************
 
 Used to relate between two operands
 
@@ -54,5 +56,45 @@ Greater or Lesser than	    	    ==>	    <
 Greater or Lesser than equal to	    ==>	    >=
 Greater or Lesser than equal to	    ==> 	<=
 
-************ End of RELATIONAL OPERATION *************
+************ Start of EXAMPLE ************
 
+    If a = 10 and b = 20 and c = 10 
+    
+    Is a > b ??
+    Ans- FALSE
+
+    Is a < b ??
+    Ans- TRUE
+
+    Is a >= c ??
+    Ans- TRUE 
+
+    Is a <= c ??
+    Ans- TRUE
+
+************ End of EXAMPLE ************
+
+************ End of RELATIONAL OPERATOR *************
+
+
+
+
+************ Start of COMPARISION OPERATOR ************
+
+Comparision operators
+Equal to        ==>     == 
+Not Equal to    ==>     !=
+
+************ Start of EXAMPLE ************
+
+    If a = 10 and b = 20
+    
+    Is a == b ??
+    Ans- FALSE
+
+    Is a != b ??
+    Ans- TRUE
+
+************ End of EXAMPLE ************
+
+************ Start of COMPARISION OPERATOR ************
