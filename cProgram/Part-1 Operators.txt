@@ -98,3 +98,13 @@ Not Equal to    ==>     !=
     ************ End of EXAMPLE ************
 
 ************ Start of COMPARISION OPERATOR ************
+
+
+
+************ Start of LOGICAL OPERATOR ************
+
+logical AND (if A and B given both A and B must be true)                    ==>     && 
+logical OR (if A and B given either A can be true or be can be true)        ==>     || 
+logical NOT (if true evaluates to false and vice versa)                     ==>     ! 
+
+************ Start of LOGICAL OPERATOR ************
