@@ -85,6 +85,16 @@ Comparision operators
 Equal to        ==>     == 
 Not Equal to    ==>     !=
 
+    ************ Start of EXAMPLE ************
 
+        If a = 10 and b = 20
+        
+        Is a == b ??
+        Ans- FALSE
+
+        Is a != b ??
+        Ans- TRUE
+
+    ************ End of EXAMPLE ************
 
 ************ Start of COMPARISION OPERATOR ************
