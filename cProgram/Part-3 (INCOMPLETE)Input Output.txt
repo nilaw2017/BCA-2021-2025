@@ -1,0 +1,15 @@
+Memory Allocation
+    Memory allocation can be done in 2 ways :-
+
+    Changeable          ==>     We use variable as changeable memory allocation
+
+    Unchangeable        ==>     We use constant as unchangeable memory allocation
+
+
+In C language we indicate :-
+
+    Input       ==>     scanf("")
+
+    Output      ==>     printf("")
+
+
