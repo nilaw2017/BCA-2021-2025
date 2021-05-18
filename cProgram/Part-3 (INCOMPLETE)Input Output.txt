@@ -12,10 +12,12 @@ In C language we indicate :-
 
     Output      ==>     printf("")
 
-NOTE:
+//  NOTE: THESE ARE GENERALLY USED DATA TYPES
 
-    DATA TYPE           |   Syntax          |   Description
+    DATA TYPE           |   Syntax          |   Format      |       Description
 
-1.  INTEGER             |   int             |   used to include integer ranging FROM -32768 TO 32768
+1.  INTEGER             |   int             |   %d          |       used to include integer number only ranging FROM -32768 TO 32768
 
+2.  FLOAT               |   float           |   %f          |       used to include decimal numbers as well as integer number
 
+3.  CHARACTER           |   char            |   %c          |       can include alphabetical characters as well
