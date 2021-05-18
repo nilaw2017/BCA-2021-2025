@@ -20,4 +20,25 @@ In C language we indicate :-
 
 2.  FLOAT               |   float           |   %f          |       used to include decimal numbers as well as integer number
 
-3.  CHARACTER           |   char            |   %c          |       can include alphabetical characters as well
+3.  CHARACTER           |   char            |   %s          |       can include alphabetical characters as well
+
+*************************   START OF EXAMPLE DATA TYPE, INPUT AND OUTPUT    *************************
+
+    int a = 10, b, c ;
+
+    float x = 1.5, y, z;
+
+    char firstName, lastName ;
+
+    // THIS IS FOR INTEGER
+    scanf("Enter the value of b = %d", &b);
+    c = a + b ;
+    printf("Value of c = %d", c);
+
+    // THIS IS FOR FLOAT
+    scanf("Enter the value of y = %f", &y);
+    z = x + y ;
+    printf("Value of z = %f", z);
+
+    // THIS IS FOR STRING
+    scanf("Enter your FIRST NAME = %")
