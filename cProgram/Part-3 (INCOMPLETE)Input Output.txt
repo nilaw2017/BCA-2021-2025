@@ -19,5 +19,4 @@ In C language we indicate :-
 1.  INTEGER             |   int             |   %d          |       used to include integer number only ranging FROM -32768 TO 32768
 
 2.  FLOAT               |   float           |   %f          |       used to include decimal numbers as well as integer number
-
 3.  CHARACTER           |   char            |   %c          |       can include alphabetical characters as well
