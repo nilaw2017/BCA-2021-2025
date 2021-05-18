@@ -12,4 +12,10 @@ In C language we indicate :-
 
     Output      ==>     printf("")
 
+NOTE:
+
+    DATA TYPE           |   Syntax          |   Description
+
+1.  INTEGER             |   int             |   used to include integer ranging FROM -32768 TO 32768
+
 
