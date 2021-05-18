@@ -24,21 +24,52 @@ In C language we indicate :-
 
 *************************   START OF EXAMPLE DATA TYPE, INPUT AND OUTPUT    *************************
 
+    // THIS IS FOR INTEGER
     int a = 10, b, c ;
 
-    float x = 1.5, y, z;
-
-    char firstName, lastName ;
-
-    // THIS IS FOR INTEGER
     scanf("Enter the value of b = %d", &b);
     c = a + b ;
     printf("Value of c = %d", c);
 
+    ///////////////////////////////////////////////////////////////////////////////////////////////////
+    //                                                                                               //
+    //    OUTPUT:                                                                                    //   
+    //    Enter the value of b = 15       OR      Enter the value of b = 15.5                        //   
+    //    Value of c = 25                         ERROR: Cannot tally with different data type       //   
+    //                                                                                               //
+    ///////////////////////////////////////////////////////////////////////////////////////////////////
+
+-------------------------------------------------------------------------------------------------------
+
     // THIS IS FOR FLOAT
+    float x = 1.5, y, z;
+
     scanf("Enter the value of y = %f", &y);
     z = x + y ;
     printf("Value of z = %f", z);
 
+    //////////////////////////////////////////////////////////////////////////////////
+    //                                                                              //    
+    //  OUTPUT:                                                                     //
+    //  Enter the value of y = 4        OR      Enter the value of y = 4.5          //
+    //  Value of z = 5.5                        Value of z = 6.0                    //
+    //                                                                              //
+    //////////////////////////////////////////////////////////////////////////////////
+
+-------------------------------------------------------------------------------------------------------
+
     // THIS IS FOR STRING
-    scanf("Enter your FIRST NAME = %")
+    char firstName, lastName ;
+
+    scanf("Enter your FIRST NAME = %s", &firstName);
+    scanf("Enter your LAST NAME = %s", &lastName);
+    printf("Your name is %s %s", firstName, lastName);
+
+    ////////////////////////////////////////////////////////////////////
+    //                                                                //  
+    //    OUTPUT:                                                     //  
+    //    Enter your FIRST NAME = Nilaw                               //  
+    //    Enter your LAST NAME = Manandhar                            //  
+    //    Your name is Nilaw Manandhar                                //  
+    //                                                                //  
+    ////////////////////////////////////////////////////////////////////
