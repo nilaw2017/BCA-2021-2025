@@ -22,6 +22,8 @@ In C language we indicate :-
 
 3.  CHARACTER           |   char            |   %s          |       can include alphabetical characters as well
 
+4.  BOOLEAN             |   NULL            |   NULL        |       can only take TRUE or FALSE
+
 *************************   START OF EXAMPLE DATA TYPE, INPUT AND OUTPUT    *************************
 
     // THIS IS FOR INTEGER
