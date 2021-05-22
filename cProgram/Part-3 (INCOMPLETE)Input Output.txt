@@ -88,3 +88,10 @@ In C language we indicate :-
     //    Your name is Nilaw Manandhar                                //  
     //                                                                //  
     ////////////////////////////////////////////////////////////////////
+
+
+
+-------------------------------------------------------------------------------------------------------
+
+
+    NOTE: WE JUST ADD const IN FRONT OF THE VARIABLE DATA TYPES TO MAKE THE VALUE FIXED THROUGHOUT THE PRGRAM
