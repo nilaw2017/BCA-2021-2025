@@ -1,9 +1,9 @@
 Memory Allocation
     Memory allocation can be done in 2 ways :-
 
-    Changeable          ==>     We use variable as changeable memory allocation
+    Changeable          ==>     We use variable as changeable memory allocation. In other words, we define variable as fixed values that the program can be changed during its execution.
 
-    Unchangeable        ==>     We use constant as unchangeable memory allocation
+    Unchangeable        ==>     We use constant as unchangeable memory allocation. In other words, we define constant as fixed values that the program cannot change during its execution.
 
 
 In C language we indicate :-
